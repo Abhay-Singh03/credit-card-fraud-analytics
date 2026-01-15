@@ -176,7 +176,7 @@ Purpose: Operational & investigation focus
 ---
 
 ## 👤 Author
-**[Your Name]**  
+**Abhay SInghgit **  
 Aspiring Data Analyst | Fraud Analytics | SQL | Power BI  
 
 ---
